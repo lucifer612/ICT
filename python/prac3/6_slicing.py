@@ -1,3 +1,5 @@
+#program to swap 1st 2 characters in 2 string inputs concate them
+
 string1=input("enter the first string :")
 string2=input("enter the second string :")
 
