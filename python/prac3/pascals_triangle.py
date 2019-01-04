@@ -11,6 +11,6 @@ for row in range(0,number):
     for col in range(0,row+1):
         print(" ",end="")
         print(int(k),end="")
-        k=k*(row-col)/(col+1)
+        k=k*(row-col)/(col+1)    # main logic to find next value 
     
     print("\n")
